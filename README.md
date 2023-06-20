@@ -3,7 +3,7 @@ Crowd Funding project based on Solidity Smart Contracts<br>
 Run with the Remix IDE  
 
 ## **How It's Made:**
-Tech used: Solidity, Remix IDE<br>
+**Tech used:** Solidity, Remix IDE<br>
 Code uses a Smart Contract approach.<br>
 In this smart Contract with functions needed for working of the code. Which makes code readable, easy to debug and modify.
 
