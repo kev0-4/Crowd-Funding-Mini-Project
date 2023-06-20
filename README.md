@@ -10,7 +10,7 @@ In this smart Contract with functions needed for working of the code. Which make
 
 ## **Features:**
 1.Can set minimum Target required and Deadline to complete the goal
-[^2].Has a voting system, For voting on Requests created by the Manager
+<br>2.Has a voting system, For voting on Requests created by the Manager
 3.Manager can only withdraw ETH if target & deadline are met along if >=50% of votes have voted in favour
 4.Manager can make multiple requests at any time to transfer money to a receptient and give description for each of them
 5.There is also a feaature to hardcode minimum donation amount
