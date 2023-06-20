@@ -1,20 +1,20 @@
 # Crowd-Funding-Mini-Project
-Crowd Funding project based on Solidity Smart Contracts
+Crowd Funding project based on Solidity Smart Contracts<br>
 Run with the Remix IDE  
 
 ## **How It's Made:**
-Tech used: Solidity, Remix IDE
-Code uses a Smart Contract approach.
+Tech used: Solidity, Remix IDE<br>
+Code uses a Smart Contract approach.<br>
 In this smart Contract with functions needed for working of the code. Which makes code readable, easy to debug and modify.
 
 
 ## **Features:**
-1.Can set minimum Target required and Deadline to complete the goal
-<br>2.Has a voting system, For voting on Requests created by the Manager
-3.Manager can only withdraw ETH if target & deadline are met along if >=50% of votes have voted in favour
-4.Manager can make multiple requests at any time to transfer money to a receptient and give description for each of them
-5.There is also a feaature to hardcode minimum donation amount
-6.If target is failed to met before the deadline, Contributors have option to withraw their ETH
+**1.** Can set minimum Target required and Deadline to complete the goal
+<br>**2.** Has a voting system, For voting on Requests created by the Manager
+<br>**3.** Manager can only withdraw ETH if target & deadline are met along if >=50% of votes have voted in favour
+<br>**4.** Manager can make multiple requests at any time to transfer money to a receptient and give description for each of them
+<br>**5.** There is also a feaature to hardcode minimum donation amount
+<br>**6.** If target is failed to met before the deadline, Contributors have option to withraw their ETH
 
 ## **Lessons Learned:**
 While working on this project I Learned Theoritical working of **Ethereum smart contracts** and How to code them with help of **Solidity**
